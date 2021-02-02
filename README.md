@@ -1,0 +1,2 @@
+# Colour-Game
+In this game, player has to enter color of the word that appears on the screen. Initially the score is 0.  If the color entered by the user matches with the color appeared on the screen the score increases by one, if not the score remains same. The total time to play this game is 60 seconds.  If the time left is 0 then "Game Over "message is displayed on the screen which means the game ends.   
